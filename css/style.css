@@ -1,0 +1,3 @@
+/* Aroma Technique styles - see full file in artifacts */
+:root { --bg: #F8F5F0; --gold: #B8954A; }
+body { font-family: system-ui, sans-serif; background: var(--bg); }
